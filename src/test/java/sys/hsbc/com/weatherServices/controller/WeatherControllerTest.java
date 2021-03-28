@@ -9,8 +9,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import sys.hsbc.com.weatherservices.apiModel.ResponseEntity;
-import sys.hsbc.com.weatherservices.model.Weather;
+import sys.hsbc.com.weatherservices.model.ResponseEntity;
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
