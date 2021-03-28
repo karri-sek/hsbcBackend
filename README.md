@@ -13,7 +13,7 @@ Above command should be successful and run all the *tests*, you should be able t
 ### Run the application and hit the GET endpoint through postman
 
     1: Install maven in your local machine.
-    2: Run this command from the project root folder mvn spring-boot:run
+    2: Run this command from the project root folder ```mvn spring-boot:run```
     3: Hit this endpoint ```http://localhost:8080/getCities?letter=z``` from post man.
 
 
@@ -24,6 +24,7 @@ Above command should be successful and run all the *tests*, you should be able t
 
 
 ### postman output looks like 
-![alt text](https://github.com/karri-sek/hsbcFrontEnd/blob/master/src/images/result.png?raw=true)
-### Frontend:
+![alt text](https://github.com/karri-sek/hsbcBackend/blob/master/src/resources/images/backend-postman.png?raw=true)
+### Frontend repo:
+Open [https://github.com/karri-sek/hsbcFrontEnd](https://github.com/karri-sek/hsbcFrontEnd) 
     
